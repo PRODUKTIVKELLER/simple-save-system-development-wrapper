@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "name": "com.produktivkeller.simple-logging",
+            "hash": "b73e52836a3dcee493dbf1526373647ae20ff960",
+            "url": "https://github.com/PRODUKTIVKELLER/simple-logging.git"
+        }
+    ]
+}
