@@ -657,15 +657,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7274445598289008298, guid: b381846b757c4234b855dd367cb21b47,
-        type: 3}
-      propertyPath: sceneName
-      value: SampleScene
-      objectReference: {fileID: 0}
-    - target: {fileID: 7274445598289008298, guid: b381846b757c4234b855dd367cb21b47,
-        type: 3}
-      propertyPath: cachedSaveableComponents.Array.data[0].identifier
-      value: TestSaveable-12345
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b381846b757c4234b855dd367cb21b47, type: 3}
