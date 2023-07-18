@@ -1,0 +1,3 @@
+[submodule "Packages/com.produktivkeller.simple-save-system"]
+	path = Packages/com.produktivkeller.simple-save-system
+	url = git@github.com:PRODUKTIVKELLER/simple-save-system.git
